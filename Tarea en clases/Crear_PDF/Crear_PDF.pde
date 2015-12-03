@@ -1,0 +1,1 @@
+textMode(MODEL); //permite trabajar sobre el PDF creado
